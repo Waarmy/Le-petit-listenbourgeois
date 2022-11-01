@@ -1,4 +1,4 @@
-####  Le petit Listenbourgeois
+##  Le petit Listenbourgeois
 
 *Le petit Listenbourgeois* est un dictionnaire qui va du français vers le Listenbourgeois. Il a était créer par :
 Waarmy / Farceur13.
